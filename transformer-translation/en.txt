@@ -1,0 +1,100 @@
+Hello
+How are you
+I am fine
+Thank you
+Good morning
+Good evening
+Good night
+What is your name
+My name is John
+Nice to meet you
+Where are you from
+I am from India
+I like learning
+I love programming
+This is my book
+That is your pen
+I am a student
+I am learning AI
+This is interesting
+I am happy
+I am sad
+I am tired
+I am hungry
+I am thirsty
+I need help
+Can you help me
+Please wait
+Come here
+Go there
+Sit down
+Stand up
+Open the door
+Close the window
+It is hot today
+It is cold today
+I like coffee
+I like tea
+I eat food
+I drink water
+I read books
+I write code
+I study daily
+I work hard
+Time is important
+Life is beautiful
+This is easy
+This is difficult
+I understand
+I do not understand
+Explain again
+Speak slowly
+Speak clearly
+I am learning French
+I am learning English
+Practice makes perfect
+Never give up
+Believe in yourself
+Success needs effort
+Knowledge is power
+Learning is fun
+Today is Monday
+Tomorrow is Tuesday
+Yesterday was Sunday
+I like music
+I like movies
+I play games
+I watch videos
+I use a computer
+I use the internet
+Technology is useful
+I wake up early
+I sleep late
+I go to school
+I go to college
+I go to work
+I come back home
+I cook food
+I clean my room
+I take rest
+I feel relaxed
+I am learning transformers
+Tokenization is important
+Embeddings convert words to numbers
+Models learn patterns
+Data is important
+Small data limits learning
+Practice improves skills
+Consistency matters
+I enjoy learning
+I will succeed
+Keep moving forward
+Hard work pays off
+Stay focused
+Stay motivated
+Learn every day
+Improve yourself
+Never stop learning
+Dream big
+Stay positive
+Thank you very much

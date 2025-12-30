@@ -1,0 +1,100 @@
+Bonjour
+Comment ça va
+Je vais bien
+Merci
+Bonjour
+Bonsoir
+Bonne nuit
+Comment tu t’appelles
+Je m’appelle John
+Ravi de te rencontrer
+D’où viens-tu
+Je viens d’Inde
+J’aime apprendre
+J’adore programmer
+Ceci est mon livre
+Cela est ton stylo
+Je suis étudiant
+J’apprends l’IA
+C’est intéressant
+Je suis heureux
+Je suis triste
+Je suis fatigué
+J’ai faim
+J’ai soif
+J’ai besoin d’aide
+Peux-tu m’aider
+S’il te plaît attends
+Viens ici
+Va là-bas
+Assieds-toi
+Lève-toi
+Ouvre la porte
+Ferme la fenêtre
+Il fait chaud aujourd’hui
+Il fait froid aujourd’hui
+J’aime le café
+J’aime le thé
+Je mange de la nourriture
+Je bois de l’eau
+Je lis des livres
+J’écris du code
+J’étudie tous les jours
+Je travaille dur
+Le temps est important
+La vie est belle
+C’est facile
+C’est difficile
+Je comprends
+Je ne comprends pas
+Explique encore
+Parle lentement
+Parle clairement
+J’apprends le français
+J’apprends l’anglais
+La pratique rend parfait
+N’abandonne jamais
+Crois en toi
+Le succès demande des efforts
+Le savoir est le pouvoir
+Apprendre est amusant
+Aujourd’hui c’est lundi
+Demain c’est mardi
+Hier c’était dimanche
+J’aime la musique
+J’aime les films
+Je joue à des jeux
+Je regarde des vidéos
+J’utilise un ordinateur
+J’utilise internet
+La technologie est utile
+Je me réveille tôt
+Je dors tard
+Je vais à l’école
+Je vais à l’université
+Je vais au travail
+Je rentre à la maison
+Je cuisine
+Je nettoie ma chambre
+Je me repose
+Je me sens détendu
+J’apprends les transformers
+La tokenisation est importante
+Les embeddings convertissent les mots en nombres
+Les modèles apprennent des motifs
+Les données sont importantes
+Peu de données limitent l’apprentissage
+La pratique améliore les compétences
+La régularité compte
+J’aime apprendre
+Je réussirai
+Continue d’avancer
+Le travail acharné paie
+Reste concentré
+Reste motivé
+Apprends chaque jour
+Améliore-toi
+N’arrête jamais d’apprendre
+Rêve grand
+Reste positif
+Merci beaucoup
